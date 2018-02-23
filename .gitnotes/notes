@@ -1,0 +1,25 @@
+#ENTRY#
+machine_precision.py
+machinePrecision
+This function contains a standard algorithm to find the machine precision of a computer
+#
+
+#ENTRY#
+machine_precision.py
+main
+This function is the first call (and only explicit call) when the program is executed
+#
+
+#ENTRY#
+machine_precision.py
+precision
+Value for the machine precision determined by machinePrecision()
+#
+
+#ENTRY#
+machine_precision.py
+sys.argv
+System libray call that allows access to the passed command line arguments
+#
+
+
