@@ -2,7 +2,7 @@
 machine_precision.py
 machinePrecision
 This function contains a standard algorithm to find the floating point decimal limit for a machine
-#
+https://raw.githubusercontent.com/tbake0155/machinePrecision/master/.gitnotes/python_logo.png
 https://en.wikipedia.org/wiki/Machine_epsilon
 
 #ENTRY#
