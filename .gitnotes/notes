@@ -1,13 +1,13 @@
 #ENTRY#
 machine_precision.py
 machinePrecision
-This function contains a standard algorithm to find the machine precision of a computer
+This function contains a standard algorithm to find the floating point decimal limit for a machine
 #
 
 #ENTRY#
 machine_precision.py
 main
-This function is the first call (and only explicit call) when the program is executed
+This function is the first call when the program is executed
 #
 
 #ENTRY#
